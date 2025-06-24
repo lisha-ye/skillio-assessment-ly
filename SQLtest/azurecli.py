@@ -1,0 +1,1 @@
+psql -h lishapg2.postgres.database.azure.com -p 5432 -U lishayesql -d postgres -W
