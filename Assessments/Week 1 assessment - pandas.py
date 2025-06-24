@@ -39,3 +39,5 @@ average_price_comparison = pd.Dataframe(compare)
 print("Average price for quality vs. low quality vs. all products:", average_price_comparison)
 
 #dont know how to move on, code above does not work unfortunately
+
+#change1
